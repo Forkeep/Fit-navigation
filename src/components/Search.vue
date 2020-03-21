@@ -1,7 +1,5 @@
 <template>
-  <div id="Home">
-
-  </div>
+  <div>搜索</div>
 </template>
 
 <script lang="ts">
@@ -9,8 +7,7 @@
   import {Component} from 'vue-property-decorator';
 
   @Component
-  export default class Home extends Vue {
-
+  export default class Search extends Vue {
   }
 </script>
 
